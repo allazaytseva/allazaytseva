@@ -10,7 +10,7 @@ I'm Alla (she/her), a self-taught Data Analyst based in Seattle, USA.
 
 🔎 You can find me on [Kaggle](https://www.kaggle.com/allazaytseva)! My goal for the next week is to organize Github and transfer all my projects from Kaggle to here. 
 
-👩🏻👩🏾🧑🏼 I'm passionate about introducing more women to the world of data, that's why I've been volunteering at [Women In Data](https://www.womenindata.org/)/Seattle Chapter 🌟
+🧕🏻👩🏾🧑🏼 I'm passionate about introducing more women to the world of data, that's why I've been volunteering at [Women In Data](https://www.womenindata.org/)/Seattle Chapter 🌟
 
 ### Connect with me!
 [LinkedIn](https://www.linkedin.com/in/alla-zaytseva/)
