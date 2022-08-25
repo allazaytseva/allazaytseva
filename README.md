@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 🥳
+
+I'm Alla, a self-taught Data Analyst based in Seattle, USA. 
+
+I've been transitioning into Data Analytics from Marketing and Economics since July 2021. 
+
+Currently, I'm practicing my SQL skills and have started an 8-week SQL challenge that was brought by Danny Ma! You can find my very first challenge [HERE](https://github.com/allazaytseva/8-week-sql-challenge)
+
+I've done some projects in R on Kaggle 
 
 <!--
 **allazaytseva/allazaytseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
