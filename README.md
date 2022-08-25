@@ -1,24 +1,17 @@
 ## Hi there 🥳
 
-I'm Alla, a self-taught Data Analyst based in Seattle, USA. 
+I'm Alla (she/her), a self-taught Data Analyst based in Seattle, USA. 
 
-I've been transitioning into Data Analytics from Marketing and Economics since July 2021. 
+### About me:
 
-Currently, I'm practicing my SQL skills and have started an 8-week SQL challenge that was brought by Danny Ma! You can find my very first challenge [HERE](https://github.com/allazaytseva/8-week-sql-challenge)
+🌟 I've been transitioning into Data Analytics from Marketing and Economics since July 2021. 
 
-You can find me on [Kaggle](https://www.kaggle.com/allazaytseva)! My goal for the next week is to organize Github and transfer all my projects from Kaggle to here. 
+📚 Currently, I'm practicing my SQL skills and have started an 8-week SQL challenge that was brought by Danny Ma! You can find my very first challenge [HERE](https://github.com/allazaytseva/8-week-sql-challenge)
 
-<!--
-**allazaytseva/allazaytseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔎 You can find me on [Kaggle](https://www.kaggle.com/allazaytseva)! My goal for the next week is to organize Github and transfer all my projects from Kaggle to here. 
 
-Here are some ideas to get you started:
+👩🏻👩🏾🧑🏼 I'm passionate about introducing more women to the world of data, that's why I've been volunteering at [Women In Data](https://www.womenindata.org/)/Seattle Chapter 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me!
+[LinkedIn](https://www.linkedin.com/in/alla-zaytseva/)
+
