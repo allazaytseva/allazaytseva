@@ -6,7 +6,7 @@ I've been transitioning into Data Analytics from Marketing and Economics since J
 
 Currently, I'm practicing my SQL skills and have started an 8-week SQL challenge that was brought by Danny Ma! You can find my very first challenge [HERE](https://github.com/allazaytseva/8-week-sql-challenge)
 
-I've done some projects in R on Kaggle 
+You can find me on [Kaggle](https://www.kaggle.com/allazaytseva)! My goal for the next week is to organize Github and transfer all my projects from Kaggle to here. 
 
 <!--
 **allazaytseva/allazaytseva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
